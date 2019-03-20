@@ -42,4 +42,15 @@ background-size: cover;
 background-size: cover;
 }
 
+.section.is-boletus {
+  background: linear-gradient(
+    to top right,
+    rgba(0, 0, 0, 0.93),
+    rgba(0, 0, 0, 0.8)
+  ), url('../images/radio.jpg') no-repeat center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
 
